@@ -1,4 +1,4 @@
-![img](/screenshot.jpg)
+![screenshot](/screenshot.png)
 
 # Stoic Quotes on Terminal
 
