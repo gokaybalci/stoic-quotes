@@ -1,4 +1,4 @@
-![img](/epictetos.jpg)
+![img](/screenshot.jpg)
 
 # Stoic Quotes on Terminal
 
@@ -10,4 +10,4 @@ It is a simple shell script to enlighten yourself with a random quote from diffe
 - Add 'sh ~./stoic-quotes/quotes.sh' to your .bashrc file
 - Open your terminal
 
-
+![img](/epictetos.jpg)
