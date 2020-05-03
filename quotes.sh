@@ -2,7 +2,7 @@
 
 qNUM=$(( ( RANDOM % 53 )  + 1 ))
 
-q[1]="If you are distressed by anything external, the pain is not due to the thing itself,\n but to your estimate of it; and this you have the power to revoke at any moment. - Marcus Aurelius"
+q[1]="If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it; and this you have the power to revoke at any moment. - Marcus Aurelius"
 q[2]="Never let the future disturb you. You will meet it, if you have to, with the same weapons of reason which today arm you against the present. - Marcus Aurelius"
 q[3]="It is the power of the mind to be unconquerable. - Seneca"
 q[4]="It is not the man who has too little that is poor, but the one who hankers after more. - Seneca"
@@ -13,7 +13,7 @@ q[8]="It is more necessary for the soul to be cured than the body; for it is bet
 q[9]="Today I escaped anxiety. Or no, I discarded it, because it was within me, in my own perceptions — not outside. - Marcus Aurelius"
 q[10]="A man is as much a fool for shedding tears because he isn't going to be alive a thousand years from now. - Seneca"
 q[11]="A man is wealthy if he has attuned himself to his restricted means and has made himself rich on little. - Seneca"
-q[12]="[P]leasures, when they go beyond a certain limit, are but punishments. - Seneca"
+q[12]="Pleasures, when they go beyond a certain limit, are but punishments. - Seneca"
 q[13]="No man is free who is not master of himself. - Epictetus"
 q[14]="The essence of philosophy is that a man should so live that his happiness shall depend as little as possible on external things. – Epictetus"
 q[15]="A man is as unhappy as he has convinced himself he is. - Seneca"
